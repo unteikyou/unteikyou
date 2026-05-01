@@ -8,30 +8,35 @@
 ╚██████╔╝██║ ╚████║   ██║   ███████╗██║██║  ██╗   ██║   ╚██████╔╝╚██████╔╝
  ╚═════╝ ╚═╝  ╚═══╝   ╚═╝   ╚══════╝╚═╝╚═╝  ╚═╝   ╚═╝    ╚═════╝  ╚═════╝
 ```
-</div>
 
----
-
-web app security. authorized bug bounty. occasionally fix things that were never mine to break.
-
-i read code until something looks wrong, then i figure out why. found XSS, IDOR, exposed credentials, source code disclosure, misconfigured storage across various programs. nothing fancy — just patience and attention to things people overlook.
-
-small PRs. real impact. that's the point.
-
----
-
-**tools:** Burp Suite · ffuf · Python · Bash · whatever gets the job done
-
----
-
-<div align="center">
-
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=unteikyou&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&include_all_commits=true" />
+**web app security &nbsp;·&nbsp; bug bounty &nbsp;·&nbsp; open source**
 
 </div>
 
 ---
 
+i read code until something looks wrong. found XSS, IDOR, exposed credentials, source code disclosure, and misconfigured storage across authorized programs. no automation dependency — just reading carefully.
+
+small diffs. real consequences if left unfixed.
+
+---
+
+```
+tools     Burp Suite · ffuf · Python · Bash
+focus     logic flaws · auth issues · supply chain
+status    always mid-recon
+```
+
+---
+
 <div align="center">
-<sub>don't trust, verify · issues open · DMs closed</sub>
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=unteikyou&show_icons=true&bg_color=090909&title_color=ffffff&text_color=888888&icon_color=cccccc&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/unteikyou)
+
+</div>
+
+---
+
+<div align="center">
+<sub>don't trust, verify &nbsp;·&nbsp; issues open &nbsp;·&nbsp; DMs closed</sub>
 </div>
