@@ -31,7 +31,7 @@ status    always mid-recon
 
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=unteikyou&theme=dark&background=0d0d0d&border=333333&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=aaaaaa&currStreakLabel=aaaaaa&sideLabels=aaaaaa&dates=555555&hide_border=true" alt="GitHub Streak" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unteikyou&layout=compact&theme=dark&bg_color=0d0d0d&title_color=ffffff&text_color=aaaaaa&hide_border=true&langs_count=6" alt="Top Languages" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=unteikyou&layout=compact&bg_color=0d0d0d&title_color=ffffff&text_color=aaaaaa&hide_border=true&langs_count=6" alt="Top Languages" />
 </div>
 
 ---
