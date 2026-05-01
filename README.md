@@ -19,11 +19,8 @@
 
 ```python
 {
-    "handle":    "unteikyou",
     "focus":     ["web app security", "open source", "building stuff"],
-    "platforms": ["Intigriti", "Bugcrowd"],
     "stack":     ["Python", "Bash", "JavaScript", "Java", "SQL"],
-    "OS":        "hardened mobile + Linux",
     "status":    "always in the middle of something",
 }
 ```
@@ -32,7 +29,7 @@
 
 ### security research
 
-authorized bug bounty work on Intigriti and Bugcrowd.
+authorized bug bounty work.
 
 findings across various programs: stored XSS, IDOR, exposed credentials, source code disclosure, misconfigured cloud storage.
 
