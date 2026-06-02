@@ -34,9 +34,7 @@ still learning, building small tools, and getting better every day.
 </div>
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unteikyou&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=aaaaaa&langs_count=6" alt="Top Languages" />
-
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=unteikyou&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=aaaaaa&langs_count=6" alt="Top Languages" />
 </div>
 
 ---
