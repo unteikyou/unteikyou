@@ -15,23 +15,13 @@
 
 ---
 
-hey, i'm **unteikyou** — i learn by breaking things.
+hey, i'm **unteikyou** — I learn by breaking things.
 
 i'm into web security, reading source code, and understanding how systems fail.
 still learning, building small tools, and getting better every day.
-
-- 🔍 web application security & penetration testing
-- 🐍 python and bash for scripting and automation
-- 🛠️ burp suite, ffuf, and whatever the job needs
-- 📖 currently studying and doing CTFs
-
 ---
 
-<div align="center">
 
-<img src="https://streak-stats.demolab.com?user=unteikyou&theme=dark&hide_border=true&background=0d0d0d&ring=ffffff&fire=aaaaaa&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=aaaaaa&sideLabels=aaaaaa&dates=555555" alt="GitHub Streak" />
-
-</div>
 
 <div align="center">
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=unteikyou&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=aaaaaa&langs_count=6" alt="Top Languages" />
