@@ -15,7 +15,7 @@
 
 ---
 
-hey, i'm **unteikyou** — I learn by breaking things.
+hey, i'm **unteikyou** I learn by breaking things.
 
 i'm into web security, reading source code, and understanding how systems fail.
 still learning, building small tools, and getting better every day.
